@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+#header4-c B {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-c P {
+  font-size: 36px;
+}
+#contacts2-n P {
+  color: #000000;
+  font-size: 20px;
+}
+#contacts2-n STRONG {
+  font-size: 22px;
+}
+#menu-p .navbar-toggler {
+  color: #000;
+}

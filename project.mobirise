@@ -1,0 +1,266 @@
+{
+  "settings": {
+    "name": "QTES",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 26,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/clipboard01-2000x1333.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffff",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "<b>QTES</b>",
+          "text": " Technology Enabled Solution",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "_styles": {
+            "B": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "title": "CORPORATE PROFILE",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2",
+          "text": "<p>Qtes was established in Abu Dhabi, UAE in 1998 with a vision to be an end-to-end Solution Provider in the region for IT products. Today, Qtes comprises of separate, closely managed Strategic Business Units involved&nbsp;<span style=\"font-size: 1.25rem; line-height: 1.5;\">in areas such as Software Solutions &amp; Custom Development, Distribution, Retail, Customer Care, Professional Services, Corporate Sales and Consultancy. All Qtes divisions are headed by well-qualified, highly experienced and skilled professionals. With skill sets and abilities strongly focused on delivering apt, timely solutions to clients Qtes' people are its prime assets.</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">The Corporate Division of Qtes was set up exclusively to cater to corporate clients. With a well-organized supply and service structure put together by Qtes, the Corporate Division has experienced substantial business growth in a very short span of time.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Qtes is a truly customer-driven company that empowers employees with timely information. We are committed to addressing dynamic and complex challenges and we are serving an increasingly diverse customer base.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Qtes is a place where people, technology, products, expertise and vision work together to offer the most comprehensive solutions.</span></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3",
+          "title": "OUR STRATEGY",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "text": "<p>Our strategy is to continuously add new products, equipment and services to solve a widening array of customer challenges in the region. Executing this strategy translates directly into our ability to help customers achieve timely, cost effective and best of breed products and services. Our culture also demands that we be responsible advocates of the communities in which we live and work, and of the natural environment we all share. A clearly defined strategy guides Qtes' daily actions.</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6",
+          "title": "SERVICES AND PRODUCTS",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "Successful organizations depend on our products to maintain daily needs, increase employee efficiency, meet business challenges, grasp business opportunities and improve business performance. <br>Qtes is one of the leading providers of software solutions with proven experience and advanced technology.<br>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8",
+          "text": "<h4>ESDARAT - IPO System&nbsp;</h4><p>Esdarat Initial Public Offering System handles the entire cycle and process for issuing new IPOs to the market. Organizations that have handled an IPO issue in the past would have realized the complexity associated with it.</p><p>The sheer volume of applications, tracking applications received at various branches, screening of applications an allotment presents various problems to the organization handling their issue. This calls for systems that can automate the complete IPO processes.&nbsp;</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9",
+          "text": "<h4>KHAZNA - Share Registrar System</h4><p>Khazna is a registrar system specially developed and designed for the UAE markets. Khazna' Share Registrar System provides all functions for all the purposes of registrar operations, such as company details, shareholder details, transfer certificate, print certificate, dispatch certificate etc.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">In addition to pervious functionality the system has the following sub modules:&nbsp;</span><br></p><ul><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Cheque Dividend Module&nbsp;</span><br></li><li>Bonus Dividend Module&nbsp;</li><li>AGM &amp; EGM Module&nbsp;</li><li>Rights Issues Module&nbsp;</li><li>Voting Module</li></ul><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Khazna handles the entire registrar operations through strict system security measures and administrative control, and it has the capability to manage the registrar operation for more than one company at the same time.</span><br></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "title": "LIST OF CLIENTS",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "in alphabetical order"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "text": "<ul><li>Abu Dhabi Commercial Bank</li><li>Abu Dhabi Islamic Bank</li><li>Abu Dhabi National Hotels</li><li>Abu Dhabi Securities Exchange</li><li>Emirates Driving Company</li><li>First Gulf Bank</li><li>Gulf Cement Company</li><li>Mashreq Bank</li><li>Mawarid Finance</li><li>Sharjah Islamic Bank</li><li>Union National Bank</li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Finance House, Abu Dhabi, UAE",
+              "placeId": "ChIJN8g3yXNmXj4R7jHNGqh52uc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><strong>Address</strong><br>Orjowan Tower Building,<br>Zayed 1st Street,<br>Khalidiya Area,<br>Abu Dhabi, U.A.E.<br><br>\n<strong>Contacts</strong><br>Phone:&nbsp;&nbsp;&nbsp;&nbsp;+971 02 6332336<br>Fax:&nbsp;&nbsp;&nbsp;&nbsp;+971 02 6332663<br>Email:&nbsp;&nbsp;&nbsp;&nbsp;sales@qtes.com<br></p>",
+          "text2": "",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            "STRONG": {
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 QTES LLC"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/qtes-390x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts2-n\">Contact</a></li>",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
