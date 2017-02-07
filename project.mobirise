@@ -43,17 +43,17 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#e6e0dc",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "showArrow": true
+            "showButtons": true,
+            "showArrow": false
           },
           "title": "<b>QTES</b>",
-          "text": " Technology Enabled Solution",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "text": " Technology Enabled Solutions L.L.C.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-1\" data-toolbar=\"-mbrBtnMove\">Profile</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#msg-box1-r\" data-toolbar=\"-mbrBtnMove\">Contacts</a>",
           "_styles": {
             "B": {
               "text-align": "left",
@@ -178,11 +178,11 @@
             "inverse": false,
             "showButtons": false,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "title": "CONTACT US",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+          "text": "For business inquiries and technical support"
         },
         {
           "alias": "purity/components",
@@ -209,7 +209,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><strong>Contacts</strong><br>Phone: 02 6332336<br>Fax: &nbsp; &nbsp; &nbsp; &nbsp;02 6332663<br>Email: &nbsp;sales@qtes.com<br><br><span style=\"font-size: 22px; line-height: 33px;\"><b>Office Address</b></span><br>Orjowan Tower Building,<br>Zayed 1st Street,<br>Khalidiya Area,<br>Abu Dhabi, U.A.E.<br></p>",
+          "text1": "<p><strong>Contacts</strong><br>Phone: 02 6332336<br>Fax: &nbsp; &nbsp; &nbsp; &nbsp;02 6332663<br>Email: &nbsp;sales@qtes.com<br><br><span style=\"font-size: 22px; line-height: 33px;\"><b>Office Address</b></span><br>Orjowan Tower Building,<br>Zayed 1st Street,&nbsp;Khalidiya,<br>Abu Dhabi, U.A.E.<br></p>",
           "text2": "",
           "_styles": {
             "P": {
@@ -242,7 +242,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 1996-2017 QTES LLC"
+          "text": "Copyright (c) 1996-2017 QTES L.L.C."
         },
         {
           "alias": "purity/components",
