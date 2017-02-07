@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 29,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -127,16 +127,7 @@
           ],
           "_name": "content1",
           "_anchor": "content1-8",
-          "text": "<h4>ESDARAT - IPO System&nbsp;</h4><p>Esdarat Initial Public Offering System handles the entire cycle and process for issuing new IPOs to the market. Organizations that have handled an IPO issue in the past would have realized the complexity associated with it.</p><p>The sheer volume of applications, tracking applications received at various branches, screening of applications an allotment presents various problems to the organization handling their issue. This calls for systems that can automate the complete IPO processes.&nbsp;</p>"
-        },
-        {
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-9",
-          "text": "<h4>KHAZNA - Share Registrar System</h4><p>Khazna is a registrar system specially developed and designed for the UAE markets. Khazna' Share Registrar System provides all functions for all the purposes of registrar operations, such as company details, shareholder details, transfer certificate, print certificate, dispatch certificate etc.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">In addition to pervious functionality the system has the following sub modules:&nbsp;</span><br></p><ul><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Cheque Dividend Module&nbsp;</span><br></li><li>Bonus Dividend Module&nbsp;</li><li>AGM &amp; EGM Module&nbsp;</li><li>Rights Issues Module&nbsp;</li><li>Voting Module</li></ul><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Khazna handles the entire registrar operations through strict system security measures and administrative control, and it has the capability to manage the registrar operation for more than one company at the same time.</span><br></p>"
+          "text": "<h4>ESDARAT - IPO System&nbsp;</h4><p>Esdarat Initial Public Offering System handles the entire cycle and process for issuing new IPOs to the market. Organizations that have handled an IPO issue in the past would have realized the complexity associated with it.</p><p>The sheer volume of applications, tracking applications received at various branches, screening of applications an allotment presents various problems to the organization handling their issue. This calls for systems that can automate the complete IPO processes.&nbsp;</p><h4>KHAZNA - Share Registrar System</h4><p>Khazna is a registrar system specially developed and designed for the UAE markets. Khazna' Share Registrar System provides all functions for all the purposes of registrar operations, such as company details, shareholder details, transfer certificate, print certificate, dispatch certificate etc.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">In addition to pervious functionality the system has the following sub modules:&nbsp;</span><br></p><ul><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Cheque Dividend Module&nbsp;</span><br></li><li>Bonus Dividend Module&nbsp;</li><li>AGM &amp; EGM Module&nbsp;</li><li>Rights Issues Module&nbsp;</li><li>Voting Module</li></ul><p>Khazna handles the entire registrar operations through strict system security measures and administrative control, and it has the capability to manage the registrar operation for more than one company at the same time.</p>"
         },
         {
           "alias": "purity/components",
@@ -165,10 +156,41 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-r",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "CONTACT US",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts2",
           "_anchor": "contacts2-n",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
@@ -185,12 +207,14 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><strong>Address</strong><br>Orjowan Tower Building,<br>Zayed 1st Street,<br>Khalidiya Area,<br>Abu Dhabi, U.A.E.<br><br>\n<strong>Contacts</strong><br>Phone:&nbsp;&nbsp;&nbsp;&nbsp;+971 02 6332336<br>Fax:&nbsp;&nbsp;&nbsp;&nbsp;+971 02 6332663<br>Email:&nbsp;&nbsp;&nbsp;&nbsp;sales@qtes.com<br></p>",
+          "text1": "<p><strong>Contacts</strong><br>Phone: 02 6332336<br>Fax: &nbsp; &nbsp; &nbsp; &nbsp;02 6332663<br>Email: &nbsp;sales@qtes.com<br><br><span style=\"font-size: 22px; line-height: 33px;\"><b>Office Address</b></span><br>Orjowan Tower Building,<br>Zayed 1st Street,<br>Khalidiya Area,<br>Abu Dhabi, U.A.E.<br></p>",
           "text2": "",
           "_styles": {
             "P": {
               "color": "#000000",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
             },
             "STRONG": {
               "font-size": "22px"
@@ -205,18 +229,18 @@
           "_name": "footer1",
           "_anchor": "footer1-o",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#26272c",
+            "bgColor": "#8f99af",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 QTES LLC"
+          "text": "Copyright (c) 1996-2017 QTES LLC"
         },
         {
           "alias": "purity/components",
@@ -253,7 +277,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts2-n\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
           "_styles": {
             ".navbar-toggler": {
               "color": "#000"

@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
 
 #header4-c B {
   text-align: left;
@@ -10,6 +12,7 @@
 #contacts2-n P {
   color: #000000;
   font-size: 20px;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #contacts2-n STRONG {
   font-size: 22px;
