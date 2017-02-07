@@ -9,7 +9,9 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 29,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "favicon": "@PROJECT_PATH@/assets/images/q-128x128-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
